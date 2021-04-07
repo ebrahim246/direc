@@ -1,0 +1,8 @@
+Step1: Run the command 
+	>> npm install 
+to install all the dependencies.
+
+Step2: Import the sql files to the database in sql.
+
+Step3: run the command 
+ 	>> npm start
